@@ -2,8 +2,8 @@
 
 This Repository Contains works of by far my favourite course.
 
-**1** Imagine Rasterization.
+**1.** Imagine Rasterization.
 
-**2** RayCasting.
+**2.** RayCasting.
 
-**3** Raytracing. 
+**3.** Raytracing. 
